@@ -4,7 +4,7 @@ venv
 env
 
 # python specific 
-.pyc
+*.pyc
 
 # database
-.sqlite3
+*.sqlite3
