@@ -1,0 +1,10 @@
+# ide files
+.vscode
+venv
+env
+
+# python specific 
+.pyc
+
+# database
+.sqlite3
